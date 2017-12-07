@@ -1,0 +1,12 @@
+a{
+    color: brown;
+    padding: 20px;
+}
+a:hover{
+    color: palevioletred;
+}
+nav{
+    margin-left: 1% ;
+    background-color: whitesmoke;
+
+}
